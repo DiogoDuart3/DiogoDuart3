@@ -3,7 +3,7 @@
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=DiogoDuart3&amp;show_icons=true" alt="GitHub Stats"></p>
 
-📊 &nbsp;**This week I spent my time on**
+<!-- 📊 &nbsp;**This week I spent my time on** -->
 
 <!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=DiogoDuart3&hide_title=true&hide_border=true&langs_count=5) -->
 
