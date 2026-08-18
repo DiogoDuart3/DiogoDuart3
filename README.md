@@ -89,8 +89,12 @@ The ready-to-launch website collection includes projects such as Gurumood, MLAB,
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DiogoDuart3&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoDuart3&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+<a href="https://github.com/DiogoDuart3">
+  <img src="https://img.shields.io/badge/GitHub-DiogoDuart3-181717?style=flat-square&logo=github&logoColor=white" alt="DiogoDuart3 on GitHub" />
+</a>
+<img src="https://img.shields.io/github/followers/DiogoDuart3?label=Followers&style=flat-square" alt="GitHub followers" />
+<img src="https://img.shields.io/github/commit-activity/y/DiogoDuart3?label=Commit%20activity&style=flat-square" alt="Yearly GitHub commit activity" />
+<img src="https://img.shields.io/github/last-commit/DiogoDuart3/DiogoDuart3?label=Last%20update&style=flat-square" alt="Last GitHub update" />
 
 </div>
 
