@@ -4,61 +4,61 @@
 
 ### Full-stack developer · builder · founder
 
-Construo produtos digitais de ponta a ponta — da interface à API, do checkout ao deploy.
-Trabalho sobretudo com e-commerce, SaaS e ferramentas que ajudam empresas a operar melhor.
+I build digital products end to end — from the interface to the API, from checkout to deployment.
+I focus mostly on e-commerce, SaaS, and tools that help businesses operate better.
 
 <p>
-  <a href="https://diogoduarte.net">Portfólio</a> ·
-  <a href="https://diogoduarte.net/sites">Websites prontos a lançar</a> ·
+  <a href="https://diogoduarte.net">Portfolio</a> ·
+  <a href="https://diogoduarte.net/sites">Ready-to-launch websites</a> ·
   <a href="https://github.com/DiogoDuart3">GitHub</a>
 </p>
 
-<p><strong>Disponível para trabalho freelance</strong></p>
+<p><strong>Available for freelance work</strong></p>
 
 </div>
 
-## Sobre mim
+## About me
 
-Sou um full-stack developer sediado em Portugal, com cinco anos de experiência a criar produtos web, plataformas de e-commerce e SaaS. Gosto de acompanhar o produto completo: perceber o problema, desenhar uma solução simples, construí-la e garantir que continua a funcionar depois do lançamento.
+I'm a Portugal-based full-stack developer with five years of experience building web products, e-commerce platforms, and SaaS. I like staying close to the whole product: understanding the problem, designing a simple solution, building it, and making sure it keeps working after launch.
 
-O meu trabalho passa pela interface que as pessoas usam, pela API que a suporta e pela infraestrutura que coloca tudo online. Também crio e mantenho sites WordPress e acompanho a operação diária dos meus próprios produtos.
+My work covers the interface people use, the API behind it, and the infrastructure that puts everything online. I also create and maintain WordPress websites and run the day-to-day operations of my own products.
 
-## Projetos e sites
+## Projects and websites
 
-| Projeto | O que é |
+| Project | What it is |
 | --- | --- |
-| [diogoduarte.net](https://diogoduarte.net) | Portfólio, serviços, experiência e projetos selecionados. |
-| [diogoduarte.net/sites](https://diogoduarte.net/sites) | Websites reais, desenhados e desenvolvidos para poderem ser lançados rapidamente, com conteúdo e hosting incluídos. |
-| [360Películas](https://360peliculas.pt) | Loja online de películas removíveis para automóveis. O cliente escolhe marca, modelo e ano e recebe um kit cortado à medida. |
-| [BFRI](https://bfri.pt) | Plataforma SaaS de gestão de projetos para empresas de serviços, com clientes, equipas, documentos, custos, comunicação e relatórios. |
+| [diogoduarte.net](https://diogoduarte.net) | Portfolio, services, experience, and selected work. |
+| [diogoduarte.net/sites](https://diogoduarte.net/sites) | Real websites designed and built to launch quickly, with content and hosting included. |
+| [360Películas](https://360peliculas.pt) | Online store for removable car window tints. Customers choose their make, model, and year and receive a kit cut to fit. |
+| [BFRI](https://bfri.pt) | Project-management SaaS for service companies, with clients, teams, documents, costs, communication, and reporting. |
 
-Na coleção de websites prontos a lançar estão projetos como Gurumood, MLAB, ALTTO Sushi Lisboa, Barbearia Kelvim Antonio, Clínica Dentária do Bombarral, Auto Alegria e Barbearia Navalha Dourada.
+The ready-to-launch website collection includes projects such as Gurumood, MLAB, ALTTO Sushi Lisboa, Barbearia Kelvim Antonio, Clínica Dentária do Bombarral, Auto Alegria, and Barbearia Navalha Dourada.
 
-## O que posso fazer
+## What I can do
 
-- **Lançar um produto:** enquadramento, arquitetura, desenvolvimento e pipeline de deploy.
-- **Recuperar um projeto existente:** perceber o que está realmente quebrado e devolvê-lo a um estado saudável.
-- **Criar ou manter um website:** sites WordPress para empresas, atualizações, segurança e manutenção contínua.
-- **Simplificar deployments:** containers, CI/CD, servidores, domínios e monitorização.
+- **Ship a product:** scoping, architecture, development, and the deployment pipeline.
+- **Rescue an existing project:** understand what is actually broken and bring it back to a healthy state.
+- **Build or maintain a website:** business WordPress websites, updates, security, and ongoing maintenance.
+- **Simplify deployments:** containers, CI/CD, servers, domains, and monitoring.
 
-## Projetos selecionados
+## Selected projects
 
-- **Claude Account Switcher** — aplicação nativa para macOS, disponível na barra de menus, com troca rápida entre contas, Keychain e atualizações automáticas.
-- **Faltou** — plataforma comunitária para reportar e acompanhar falhas de eletricidade e água em Portugal.
-- **E-Commerce Order Platform** — marketplace com checkout multilingue, criação automática de encomendas a fornecedores e tracking de envios.
-- **Full-Stack SaaS Starter** — base com type safety do browser à base de dados, PWA, TanStack Router, Hono, oRPC e Drizzle.
+- **Claude Account Switcher** — native macOS menu-bar app with quick account switching, Keychain storage, and automatic updates.
+- **Faltou** — community platform for reporting and tracking power and water outages across Portugal.
+- **E-Commerce Order Platform** — marketplace with multilingual checkout, automatic supplier order creation, and shipment tracking.
+- **Full-Stack SaaS Starter** — type-safe foundation from browser to database, with PWA support, TanStack Router, Hono, oRPC, and Drizzle.
 
-## Experiência
+## Experience
 
-| Período | Função | Organização |
+| Period | Role | Organization |
 | --- | --- | --- |
-| 2024 — presente | Senior Web Developer | Masterlink, Business Innovation |
+| 2024 — present | Senior Web Developer | Masterlink, Business Innovation |
 | 2024 | Web Developer | Xalantis, Unipessoal Lda. |
 | 2020 — 2024 | Full-Stack Developer | Web Winner Agency |
 | 2020 | Web Development Intern | Cruz Vermelha Portuguesa |
-| 2020 | Competitor, Web Development | WorldSkills International |
+| 2020 | Web Development Competitor | WorldSkills International |
 
-## Stack principal
+## Primary stack
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -77,20 +77,20 @@ Na coleção de websites prontos a lançar estão projetos como Gurumood, MLAB, 
 
 **Frontend:** React, Next.js, TypeScript, Vue.js, Tailwind CSS, TanStack Router<br />
 **Backend:** Laravel, Node.js, Express, PHP, Python, MySQL, PostgreSQL, Redis<br />
-**Infraestrutura:** Docker, AWS, Cloudflare, GitHub Actions, Nginx, Linux<br />
-**Também:** Swift, SwiftUI, Socket.IO, APIs REST e integrações com IA
+**Infrastructure:** Docker, AWS, Cloudflare, GitHub Actions, Nginx, Linux<br />
+**Also:** Swift, SwiftUI, Socket.IO, REST APIs, and AI integrations
 
-## Formação
+## Education
 
-- **Licenciatura em Engenharia Informática** — Politécnico de Leiria, 2022
-- **Técnico de Gestão e Programação de Sistemas Informáticos** — ESCO, 2017–2020
+- **Bachelor's Degree in Computer Engineering** — Polytechnic of Leiria, 2022
+- **Systems Programming and Management Technician** — ESCO, 2017–2020
 
 ## GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DiogoDuart3&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoDuart3&layout=compact&hide_border=true&theme=transparent" alt="Linguagens mais usadas" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DiogoDuart3&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoDuart3&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 
 </div>
 
@@ -98,6 +98,6 @@ Na coleção de websites prontos a lançar estão projetos como Gurumood, MLAB, 
 
 <div align="center">
 
-Se tens um produto para lançar ou uma operação para melhorar, [fala comigo](https://diogoduarte.net/#contact).
+If you're building a product or improving an operation, [get in touch](https://diogoduarte.net/#contact).
 
 </div>
